@@ -1,0 +1,77 @@
+ *{
+     font-family: Arial, Helvetica, sans-serif;
+ }
+ body{
+     background-color: #e5e4e2;
+ }
+.backgroundcolor{
+    background-color: white;
+}
+.backgroundorangered{
+       background-color: orangered;
+}
+.whitish{
+    background-color:#e5e4e2 ; 
+}
+
+.list{
+    height: 10px;
+    width: 40%;   
+}
+li:hover{
+    color: orangered;
+    cursor: pointer;
+}
+.color{
+   color: orangered;
+}
+.backgroundcolorblue{
+    background-color: #445268;
+}
+.backgroundimage{
+    background-image: url(images/consumer1.png);
+    background-repeat: no-repeat;
+    width: 400px;
+    height: 400px;
+}
+.backgroundimage1{
+    background-image: url(images/request1.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 720px;
+    height: 440px;
+   margin-top: 50px;
+}
+.backgroundimage3{
+    background-image: url(images/images2.jpg);
+    background-repeat: no-repeat;
+    width: 300px;
+    height: 400px;
+    background-size: cover;
+    background-position: center;
+}
+.fontsize{
+     font-size: 10px;
+}
+.fontsizemd{
+    font-size: 17px;
+}
+.button{
+    background-color: orangered;
+    border-radius: 20px;
+    color: white;
+    border: none;
+    padding: 5px 25px;
+}
+.regions:hover{
+       color: orangered;
+}
+.burlywood{
+    color: burlywood;
+}
+.backgroundburlywood{
+    background-color: burlywood;
+}
+.backgroundblack{
+    background-color: black;
+}
